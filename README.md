@@ -16,8 +16,8 @@ siendo la ultima versión lanzada.
 Integrantes:
 Manuel Alejandro Ramírez Salinas
 Abraham Acosta Herrera,
-Abner Elías Cid Ramírez
- Jaime Antonio Altamirano
-Matías Hernández Hernández 
- Pablo García Bravo 
+Abner Elías Cid Ramírez,
+Jaime Antonio Altamirano,
+Matías Hernández Hernández, 
+Pablo García Bravo. 
 
